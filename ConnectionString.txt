@@ -1,0 +1,5 @@
+<connectionStrings>
+	<add name ="EmployeeContext"
+		 connectionString="server=.; database= Sample0; integrated security= SSPI"
+providerName="System.Data.SqlClient"/>
+	</connectionStrings>
